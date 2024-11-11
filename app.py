@@ -221,6 +221,9 @@ with col2:
 hide_st_style = """
 <style>
 #MainMenu {visibility: hidden;}
+#GithubIcon {
+    visibility: visible;
+}
 footer {visibility: hidden;}
 header {visibility: hidden;}
 </style>

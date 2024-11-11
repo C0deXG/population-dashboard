@@ -48,8 +48,8 @@ This dashboard visualizes US population data from 2010 to 2019, allowing users t
 
 1. **Clone the Repository**:
     `bash
-    git clone https://github.com/yourusername/us-population-analytics.git
-    cd us-population-analytics
+    git clone https://github.com/C0deXG/population-dashboard.git
+    cd population-dashboard
     `
 
 2. **Install Dependencies**:

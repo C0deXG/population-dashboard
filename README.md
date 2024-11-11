@@ -47,18 +47,18 @@ This dashboard visualizes US population data from 2010 to 2019, allowing users t
 ## Installation
 
 1. **Clone the Repository**:
-    `bash
+    A: `bash
     git clone https://github.com/C0deXG/population-dashboard.git
-    cd population-dashboard
-    `
+   `
+   B: `cd population-dashboard`
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
     Make sure you have Python 3.7+ and install required packages using:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Run the Application**:
+4. **Run the Application**:
     Launch the Streamlit app by running:
     ```bash
     streamlit run app.py

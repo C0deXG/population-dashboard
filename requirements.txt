@@ -1,4 +1,6 @@
 streamlit
 pandas
-altair
+plotly
+streamlit_elements
+plotly-express
 plotly
